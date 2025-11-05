@@ -1,6 +1,5 @@
-# AI-Powered Mental Health Chatbot
-
-## Overview
+## AI-Powered Mental Health Chatbot
+# Overview
 This AI-powered chatbot is designed to assist users with mental health-related queries by leveraging advanced NLP, multilingual speech processing, and real-time data retrieval. The chatbot provides personalized, reliable, and accessible mental health support while ensuring user privacy.
 
 ## Tech Stack
