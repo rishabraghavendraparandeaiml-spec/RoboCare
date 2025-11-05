@@ -8,7 +8,7 @@ This AI-powered chatbot is designed to assist users with mental health-related q
 - **Backend:** FastAPI for efficient request handling
 - **Vector Database:** FAISS for fast and accurate information retrieval
 - **LLM (Language Model):** Gemini API with RAG framework (LangChain) for context-aware responses
-- **Multilingual Speech Processing:** Kokoro for text-to-speech and speech-to-text.
+- **Multilingual Speech Processing:** Kokoro for text-to-speech and speech-to-text
 
 ## Dataset
 - Self help books and articles 
